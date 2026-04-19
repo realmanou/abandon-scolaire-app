@@ -4,7 +4,6 @@ app_streamlit.py — Prédiction du Risque d'Abandon Scolaire
 
 import streamlit as st
 import joblib
-st.write("joblib OK")
 import joblib, os
 import numpy as np
 import pandas as pd
